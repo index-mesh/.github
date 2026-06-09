@@ -1,13 +1,19 @@
-# Index-Mesh
+# Index Mesh
 
-This namespace is reserved by the IndexMesh team.
+This namespace is reserved by IndexMesh.
 
-Primary development and active repositories:
-👉 https://github.com/indexmesh
+The active organization is [github.com/indexmesh](https://github.com/indexmesh), where the IndexMesh platform, documentation, AI services, and related repositories live.
 
-## Core Projects
+IndexMesh is a unified brand discoverability and engagement platform for AI tools, SaaS startups, micro-SaaS founders, and founder-led brands.
 
-- xeo-engine
-- platform
+## Current Status
 
-IndexMesh is building infrastructure for AI visibility, GEO, AEO, and XEO systems.
+This organization is a namespace reservation. Active development happens under the primary IndexMesh organization.
+
+## Primary Links
+
+- [IndexMesh organization](https://github.com/indexmesh)
+- [IndexMesh docs](https://github.com/indexmesh/docs)
+- [IndexMesh platform](https://github.com/indexmesh/platform)
+
+Built by [Xavier Emerson](https://github.com/agentx4u).
