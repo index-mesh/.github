@@ -1,13 +1,9 @@
-# Index-Mesh
+# Organization Profile
 
-This namespace is reserved by the IndexMesh team.
+This repository controls the public GitHub organization profile for this reserved IndexMesh namespace.
 
-Primary development and active repositories:
-👉 https://github.com/indexmesh
+The public-facing organization copy lives in:
 
-## Core Projects
+`profile/README.md`
 
-- xeo-engine
-- platform
-
-IndexMesh is building infrastructure for AI visibility, GEO, AEO, and XEO systems.
+Active IndexMesh development and canonical documentation live under [github.com/indexmesh](https://github.com/indexmesh).
